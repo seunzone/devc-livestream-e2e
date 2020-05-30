@@ -1,0 +1,20 @@
+{
+  "name": "devc-livestream-e2e",
+  "version": "1.0.0",
+  "description": "This repo contains the test tutorial for teaching folks in the Facebook Developer Circles how to write end to end tests using testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/index.js -s screenshots"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunzone/devc-livestream-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seunzone/devc-livestream-e2e/issues"
+  },
+  "homepage": "https://github.com/seunzone/devc-livestream-e2e#readme"
+}
